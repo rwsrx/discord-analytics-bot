@@ -37,10 +37,10 @@ DISCORD_BOT_TOKEN="seu toten do bot"
 
 5. Inicie o servidor de desenvolvimento:
 ```bash
-npm run dev
+npm run start
 ```
 
-6. Acesse [http://localhost:3000](http://localhost:3000) no navegador.
+6. Acesse seu site (a integração deve ser feita por você, sinta-se livre para divulgar num pull request se quiser como você fez essa integração.)
 
 ---
 
