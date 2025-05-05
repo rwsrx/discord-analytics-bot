@@ -29,11 +29,9 @@ cp .env.example .env
 
 4. Configure suas variáveis no `.env`:
 ```env
-# ID do seu servidor do Discord
-NEXT_PUBLIC_DISCORD_ID="seu_id_do_discord"
 
 # Token do seu bot
-
+DISCORD_BOT_TOKEN="seu toten do
 
 ```
 
@@ -48,13 +46,14 @@ npm run dev
 
 ## ⚙️ Configurações de Ambiente
 
-### ID do Servidor
-Para obter o ID do servidor desejado:
-1. Abra o Discord
-2. Acesse Configurações > Avançado
-3. Ative o Modo Desenvolvedor
-4. Clique com o botão direito no seu servidor e selecione **"Copiar ID"**
-**(o bot precisa estar no servidoslr)**
+### TOKEN do seu Bot
+Para obter o TOKEN do seu Bot desejado:
+1. Abra o Discord Developers
+2. Crie uma nova aplicação
+3. Vá em bot e ative
+4. Cliquem resetar TOKEN e clique em **"Copiar TOKEN"**
+5. Convide ele para o servidor.
+**(o bot só funciona em 1 servidor.)**
 ---
 
 ---
