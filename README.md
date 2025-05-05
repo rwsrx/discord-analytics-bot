@@ -31,7 +31,7 @@ cp .env.example .env
 ```env
 
 # Token do seu bot
-DISCORD_BOT_TOKEN="seu toten do
+DISCORD_BOT_TOKEN="seu toten do bot"
 
 ```
 
